@@ -19,7 +19,7 @@
     "fs": "0.0.1-security",
     "http-errors": "~1.6.3",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongodb": "^3.5.2",
     "mongoose": "^5.8.10",
     "morgan": "~1.9.1",
